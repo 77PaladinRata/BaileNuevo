@@ -37,7 +37,7 @@ public class Timer : MonoBehaviour
             yield return new WaitForSeconds(1f);
             remainingTime--;
         }///* no se si borrarle o no
-        ///* timerText.text = "0";
+        timerText.text = "0";
         onTimerEnd.Invoke();
     }
     public void StopTimer()

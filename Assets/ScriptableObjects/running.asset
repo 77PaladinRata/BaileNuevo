@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SongData
   animationName: BreakdanceGiro
   songName: running
+  noteChart: {fileID: 4900000, guid: c4e038d0626497b469408594d81b9781, type: 3}
+  speed: 333
