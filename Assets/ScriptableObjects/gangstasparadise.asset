@@ -15,4 +15,4 @@ MonoBehaviour:
   animationName: BreakdanceVar1
   songName: gangstasparadise
   noteChart: {fileID: 4900000, guid: 8c371892f8591e8448ef7fe17eb2fbd1, type: 3}
-  speed: 333
+  speed: 363

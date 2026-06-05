@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4346a298d65e52643b3c2f69f8ea9c98, type: 3}
-  m_Name: running
+  m_Name: DojaCat
   m_EditorClassIdentifier: Assembly-CSharp::SongData
-  animationName: BreakdanceGiro
-  songName: running
-  noteChart: {fileID: 4900000, guid: c4e038d0626497b469408594d81b9781, type: 3}
-  speed: 444
+  animationName: DancingTwerk
+  songName: DojaCat
+  noteChart: {fileID: 4900000, guid: 8bb38b8078f854f428554bb9bf4190f9, type: 3}
+  speed: 333

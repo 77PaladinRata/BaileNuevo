@@ -1,13 +1,30 @@
 {
     "notes":
     [
-        {"laneIndex": 1, "spawnTime": 2},
-        {"laneIndex": 0, "spawnTime": 2.5},
+        {"laneIndex": 2, "spawnTime": 1},
+        {"laneIndex": 2, "spawnTime": 2},
+
         {"laneIndex": 2, "spawnTime": 3},
-        {"laneIndex": 0, "spawnTime": 3.5},
+        {"laneIndex": 0, "spawnTime": 3.6},
         {"laneIndex": 1, "spawnTime": 4},
-        {"laneIndex": 0, "spawnTime": 4.5},
-        {"laneIndex": 2, "spawnTime": 5},
-        {"laneIndex": 0, "spawnTime": 5.5}
+
+        {"laneIndex": 0, "spawnTime": 5},
+        {"laneIndex": 1, "spawnTime": 5.3},
+        {"laneIndex": 2, "spawnTime": 5.6},
+
+        {"laneIndex": 1, "spawnTime": 6},
+        {"laneIndex": 1, "spawnTime": 7},
+
+        {"laneIndex": 1, "spawnTime": 8},
+        {"laneIndex": 0, "spawnTime": 8.6},
+        {"laneIndex": 2, "spawnTime": 9},
+
+        {"laneIndex": 0, "spawnTime": 10},
+        {"laneIndex": 1, "spawnTime": 10.3},
+        {"laneIndex": 2, "spawnTime": 10.6},
+
+        {"laneIndex": 0, "spawnTime": 11},
+        {"laneIndex": 0, "spawnTime": 11.6},
+        {"laneIndex": 0, "spawnTime": 12}
     ]
 }
