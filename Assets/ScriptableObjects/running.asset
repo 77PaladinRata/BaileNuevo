@@ -15,4 +15,4 @@ MonoBehaviour:
   animationName: BreakdanceGiro
   songName: running
   noteChart: {fileID: 4900000, guid: c4e038d0626497b469408594d81b9781, type: 3}
-  speed: 444
+  speed: 360

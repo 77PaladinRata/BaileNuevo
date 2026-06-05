@@ -29,6 +29,12 @@
 
         {"laneIndex": 1, "spawnTime": 9},
         {"laneIndex": 1, "spawnTime": 9.3},
-        {"laneIndex": 1, "spawnTime": 9.6}
+        {"laneIndex": 1, "spawnTime": 9.6},
+
+        {"laneIndex": 2, "spawnTime": 10},
+
+        {"laneIndex": 0, "spawnTime": 10.5},
+
+        {"laneIndex": 1, "spawnTime": 11}
     ]
 }
